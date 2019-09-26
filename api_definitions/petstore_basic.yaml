@@ -31,7 +31,7 @@ tags:
 x-wso2-basePath: /petstore/v1
 x-wso2-production-endpoints:
   urls:
-  - https://petstore.swagger.io/v2
+  - http://www.mocky.io/v2/5d8c41052e00004e00abd716
 paths:
   "/pet/findByStatus":
     get:
